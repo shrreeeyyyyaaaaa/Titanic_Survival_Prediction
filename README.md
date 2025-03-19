@@ -2,6 +2,7 @@
 The Titanic Survival Prediction project is a classic for beginners. This project is a great introduction to classification algorithms and data preprocessing. start by exploring the dataset, understanding the features, and then applying simple algorithms like logistic regression or decision trees.
 
 **Dataset**
+
 The Titanic Survival dataset is a widely-used dataset in the field of machine learning and data analysis. It contains information about the passengers on board the RMS Titanic, including whether they survived the shipwreck or not. Here is a description of the typical fields you may find in the Titanic Survival dataset:
 
 Passenger Information:
@@ -18,6 +19,7 @@ This section includes data about the family relationships of passengers, includi
 
 Survival Status:
 The survival status field indicates whether a passenger survived the Titanic disaster or not. This binary variable is typically represented as 1 (survived) or 0 (did not survive). This field serves as the target variable for prediction models.
+(https://www.kaggle.com/datasets/ashishkumarjayswal/titanic-datasets)
 
 Other Relevant Factors:
 Additional fields may be included to capture any other relevant factors that could potentially affect survival rates. These may include variables such as passenger ID, lifeboat numbers (if applicable), and any special circumstances related to the passenger's survival.
